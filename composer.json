@@ -25,11 +25,5 @@
                 "Tohidplus\\Translation\\TranslationServiceProvider"
             ]
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/tohidplus/laravel-vue-translation"
-        }
-    ]
+    }
 }
