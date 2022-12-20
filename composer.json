@@ -12,7 +12,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "elementaryframework/fire-fs": "1.2.1"
+        "elementaryframework/fire-fs": "1.2.1",
+        "tohidplus/laravel-vue-translation": "dev-haithem"
     },
     "autoload": {
         "psr-4": {
