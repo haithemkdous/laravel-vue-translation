@@ -1,12 +1,12 @@
 {
-    "name": "tohidplus/laravel-vue-translation",
+    "name": "haithemkdous/laravel-vue-translation",
     "description": "A package to have Laravel translation feature in VueJs",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tohid",
-            "email": "tohid.dadashnejad@gmail.com"
+            "name": "Haithemkdous",
+            "email": "haithemkdous@gmail.com"
         }
     ],
     "minimum-stability": "dev",
