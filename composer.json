@@ -26,7 +26,6 @@
         }
     },
     "repositories": [
-     
         {
             "type": "vcs",
             "url": "https://github.com/haithemkdous/laravel-vue-translation"
